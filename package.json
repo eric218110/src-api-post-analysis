@@ -7,5 +7,9 @@
     "email": "ericsilvaccp@gmail.com",
     "name": "Eric Silva",
     "url": "https://github.com/eric218110"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.1",
+    "@commitlint/config-conventional": "^16.2.1"
   }
 }
