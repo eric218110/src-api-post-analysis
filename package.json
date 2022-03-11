@@ -1,0 +1,11 @@
+{
+  "name": "src-api-post-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "email": "ericsilvaccp@gmail.com",
+    "name": "Eric Silva",
+    "url": "https://github.com/eric218110"
+  }
+}
