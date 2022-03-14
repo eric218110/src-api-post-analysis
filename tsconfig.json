@@ -17,8 +17,14 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "paths": {
+      "@main/*": [
+        "./main/*"
+      ],
       "@presentation/*": [
         "./presentation/*"
+      ],
+      "@domain/*": [
+        "./domain/*"
       ]
     }
   }
